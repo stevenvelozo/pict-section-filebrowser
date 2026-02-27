@@ -1,6 +1,6 @@
 {
 	"name": "pict-section-filebrowser",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "Pict file browser section - composable browsing, listing, and viewing views for file system navigation",
 	"main": "source/Pict-Section-FileBrowser.js",
 	"bin": {
@@ -24,12 +24,12 @@
 	},
 	"homepage": "https://github.com/stevenvelozo/pict-section-filebrowser#readme",
 	"dependencies": {
-		"fable": "^3.1.58",
-		"fable-serviceproviderbase": "^3.0.16",
-		"orator": "^6.0.2",
-		"orator-serviceserver-restify": "^2.0.7",
-		"pict-provider": "^1.0.10",
-		"pict-view": "^1.0.66"
+		"fable": "^3.1.63",
+		"fable-serviceproviderbase": "^3.0.19",
+		"orator": "^6.0.3",
+		"orator-serviceserver-restify": "^2.0.9",
+		"pict-provider": "^1.0.12",
+		"pict-view": "^1.0.67"
 	},
 	"devDependencies": {
 		"chai": "^6.2.2",
